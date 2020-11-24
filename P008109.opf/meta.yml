@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7889
   title: ཚད་མ་རྣམ་ངེས་རྩ་འགྲེལ།
-  volume: ''
+  volume:
+    905d0bfde34948a6b0403b1313a6689f:
+      image_group_id: I3CN7891
+      title: Volume 1 of tshad ma rnam nges rtsa 'grel/
+      volume_number: 1
+      total_pages: 808
   author: ''
+ebook_metadata:
+  title: ཚད་མ་རྣམ་ངེས་རྩ་འགྲེལ།
+  author: ''
+  sku: P008109
+  cover: cover.jpg
+  layers:
+  - pagination
