@@ -5,11 +5,12 @@ source_metadata:
   title: ཚད་མ་རྣམ་ངེས་རྩ་འགྲེལ།
   author: ''
   volumes:
-    ec2cd632e17a4adb9ce70d1eae28946f:
+    905d0bfde34948a6b0403b1313a6689f:
       image_group_id: I3CN7891
-      title: ''
+      title: Volume 1 of tshad ma rnam nges rtsa 'grel/
       volume_number: 1
       total_pages: 808
+      base_file: v001.txt
 ebook_metadata:
   title: ཚད་མ་རྣམ་ངེས་རྩ་འགྲེལ།
   author: ''
